@@ -1,0 +1,77 @@
+{
+	// These are fake data for the testing purpose only
+  "collaborators": [
+    {
+      "first_name": "John",
+      "last_name": "Doe",
+      "position": "Software Engineer",
+      "seniority": "Mid-Level",
+      "tech_stack": [
+        "Ruby on Rails",
+        "React",
+        "Node.js"
+      ],
+      "english_level": "Advanced",
+      "current_city": "New York",
+      "status": "Active",
+      "mind_teams": {
+        "operations": true,
+        "delivery": false,
+        "account": true
+      },
+      "mind_teams_account": "john_doe_mind_teams",
+      "operations_account": "john_doe_operations",
+      "days_in_arksunexus": 365,
+      "total_monthly_salary": 5500,
+      "hide_for_manager": false
+    },
+    {
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "position": "Project Manager",
+      "seniority": "Senior",
+      "tech_stack": [
+        "Agile Methodologies",
+        "Jira",
+        "Trello"
+      ],
+      "english_level": "Fluent",
+      "current_city": "Los Angeles",
+      "status": "Active",
+      "mind_teams": {
+        "operations": true,
+        "delivery": true,
+        "account": false
+      },
+      "mind_teams_account": "jane_smith_mind_teams",
+      "operations_account": "jane_smith_operations",
+      "days_in_arksunexus": 800,
+      "total_monthly_salary": 7500,
+      "hide_for_manager": true
+    },
+    {
+      "first_name": "Carlos",
+      "last_name": "Martinez",
+      "position": "UX Designer",
+      "seniority": "Junior",
+      "tech_stack": [
+        "Figma",
+        "Sketch",
+        "Adobe XD"
+      ],
+      "english_level": "Intermediate",
+      "current_city": "Barcelona",
+      "status": "Active",
+      "mind_teams": {
+        "operations": false,
+        "delivery": true,
+        "account": false
+      },
+      "mind_teams_account": "carlos_martinez_mind_teams",
+      "operations_account": "carlos_martinez_operations",
+      "days_in_arksunexus": 120,
+      "total_monthly_salary": 4000,
+      "hide_for_manager": false
+    }
+  ]
+}

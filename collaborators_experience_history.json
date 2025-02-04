@@ -1,0 +1,29 @@
+{
+    "collaborator_id": "12345",
+    "experiences": [
+      {
+        "start_date": "2021-01-01",
+        "end_date": "2021-12-31",
+        "position": "Software Engineer",
+        "company": "Google",
+        "exit_motive": "low_performance",
+        "description": "This position involved developing backend services and working on optimization tasks. However, performance issues led to the departure."
+      },
+      {
+        "start_date": "2022-01-01",
+        "end_date": "2023-12-31",
+        "position": "Senior Software Engineer",
+        "company": "Amazon",
+        "exit_motive": "project_ending",
+        "description": "In this role, I was responsible for leading the team in developing new features and maintaining legacy code. The project ended due to changing business priorities."
+      },
+      {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "position": "Lead Software Engineer",
+        "company": "Microsoft",
+        "exit_motive": "budget_restrictions",
+        "description": "As the lead engineer, I focused on overseeing technical direction, but due to budget constraints, the position was eliminated."
+      }
+    ]
+  }
