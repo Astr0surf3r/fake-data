@@ -5,6 +5,7 @@
     { "id": 1,
       "first_name": "John",
       "last_name": "Doe",
+			"email": "john.doe@arkusnexus.com",
       "position": "Software Engineer",
       "seniority": "Mid-Level",
       "tech_stack": [
@@ -56,6 +57,7 @@
       "id":2,
 			"first_name": "Jane",
       "last_name": "Smith",
+			"email": "jane.smith@arkusnexus.com",
       "position": "Project Manager",
       "seniority": "Senior",
       "tech_stack": [
@@ -107,6 +109,7 @@
 			"id":3,
       "first_name": "Carlos",
       "last_name": "Martinez",
+			"email": "carlos.martinez@arkusnexus.com",
       "position": "UX Designer",
       "seniority": "Junior",
       "tech_stack": [
