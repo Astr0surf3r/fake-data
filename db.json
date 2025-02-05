@@ -16,6 +16,7 @@
       "english_level": "Advanced",
       "current_city": "New York",
       "status": "Active",
+      "account": "Drata",
       "mind_teams": {
         "operations": true,
         "delivery": false,
@@ -68,6 +69,7 @@
       "english_level": "Fluent",
       "current_city": "Los Angeles",
       "status": "Active",
+      "account": "Interfolio",
       "mind_teams": {
         "operations": true,
         "delivery": true,
@@ -120,6 +122,7 @@
       "english_level": "Intermediate",
       "current_city": "Barcelona",
       "status": "Active",
+      "account": "Pipedrive",
       "mind_teams": {
         "operations": false,
         "delivery": true,
